@@ -1,0 +1,15 @@
+Student Result Analysis Report
+------------------------------
+Topper: Abdullah (GPA: 1)
+Total Students: 1
+Passed: 1
+Failed: 0
+Subject Averages:
+Programming Fundamentals      : 50
+PF LAB                        : 50
+Applied Physics               : 50
+Physics LAB                   : 50
+AICT                          : 50
+AICT LAB                      : 50
+Calculus - 1                  : 50
+Discrete Mathematics          : 50
